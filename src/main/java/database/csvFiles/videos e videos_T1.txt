@@ -1,0 +1,1 @@
+Os Csv's vídeos.csv e videos_T1.csv foram retirados da pasta por serem muito pesados e não dar para upar no github

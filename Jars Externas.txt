@@ -1,0 +1,11 @@
+Utilizamos .jars externas adicionando diretamente no projeto, mas se quiser utilizar o maven, o arquivo pom.xml está com as depedencias
+
+Mas caso queira usar as .jars externas, está ai a pasta com as que utilizamos, para instalar elas:
+
+Intellij:
+
+File -> Project Structure -> Modules -> (seleciona o projeto) -> Dependencies -> + (e adiciona as .jar) -> OK
+
+Eclipse:
+
+Botão direito na pasta do projeto -> Build Path -> Configure Build Path -> Add External JARs -> (e seleciona as .jar) -> Apply and Close
